@@ -4,8 +4,12 @@
   "packages": {
     "autossh": "1.4g-r5",
     "cgi-io": "2025.12.11~658b14bd-r1",
+    "libminiupnpc": "2.2.8-r1",
+    "libnatpmp": "20230423-r2",
     "openssh-client": "10.2_p1-r1",
     "openssh-keygen": "10.2_p1-r1",
-    "sing-box": "1.12.17-r1"
+    "sing-box": "1.12.17-r1",
+    "sshtunnel": "5-r2",
+    "zerotier": "1.16.0-r1"
   }
 }
